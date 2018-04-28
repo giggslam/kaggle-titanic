@@ -1,0 +1,8 @@
+Kaggle
+
+https://www.kaggle.com/c/titanic
+
+
+2018-04-28
+0.77990
+5338/11115
