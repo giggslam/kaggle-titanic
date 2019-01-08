@@ -37,9 +37,26 @@ XGBoost_SS_OH_FE_GSCV_2
 3564/ 
 
 
-
 ramansah 1
 0.76076
 
 ramansah 2
 0.77033
+
+
+2019-01-06
+
+keras
+0.77033
+
+grimreaper94_keras_submit.csv keras, 300
+0.7799
+
+grimreaper94_keras_submit.csv keras, 1000
+0.78468
+
+dim=39, epochs = 300
+0.76555
+
+dim=39, epochs = 1000
+0.77990
